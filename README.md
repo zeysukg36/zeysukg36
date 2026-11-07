@@ -16,5 +16,5 @@ I'm a senior **Management Information Systems (MIS)** student passionate about D
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/zeynepkaragozz](https://linkedin.com/in/zeynepkaragozz)
-- **Portfolio:** [zeysukg36.github.io](https://zeysukg36.github.io)
+
 - **Email:** zeynepkaragoz3637@gmail.com
